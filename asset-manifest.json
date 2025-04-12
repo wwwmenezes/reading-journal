@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reading-journal/static/css/main.30c074cd.css",
+    "main.js": "/reading-journal/static/js/main.df1ffa2c.js",
+    "index.html": "/reading-journal/index.html",
+    "main.30c074cd.css.map": "/reading-journal/static/css/main.30c074cd.css.map",
+    "main.df1ffa2c.js.map": "/reading-journal/static/js/main.df1ffa2c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30c074cd.css",
+    "static/js/main.df1ffa2c.js"
+  ]
+}
