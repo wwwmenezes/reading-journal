@@ -11,6 +11,7 @@ Um sistema simples de diário de leitura desenvolvido com React. Permite cadastr
 1. Clone o repositório:
 
 git clone (https://github.com/wwwmenezes/reading-journal.git)
+git pages (https://wwwmenezes.github.io/reading-journal/)
 
 Acesse o diretório do projeto:
 cd reading-journal
